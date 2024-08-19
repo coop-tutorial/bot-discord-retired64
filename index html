@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Términos y Condiciones - Bot de Discord</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #E0E0E0;
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            margin: 0;
+        }
+
+        h1, h2 {
+            color: #ffffff;
+            font-weight: bold;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        p {
+            margin-bottom: 20px;
+        }
+
+        a {
+            color: #BB86FC;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background-color: #1F1F1F;
+            border-radius: 8px;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Términos y Condiciones</h1>
+
+        <h2>1. Introducción</h2>
+        <p>Bienvenido a nuestro bot de Discord. Al utilizar este bot, aceptas cumplir con estos términos y condiciones. Si no estás de acuerdo con alguno de estos términos, por favor, no utilices el bot.</p>
+
+        <h2>2. Uso del Bot</h2>
+        <p>El bot está diseñado para proporcionar funcionalidades específicas dentro de Discord. Nos reservamos el derecho de modificar o descontinuar el servicio en cualquier momento sin previo aviso.</p>
+
+        <h2>3. Responsabilidades del Usuario</h2>
+        <p>Al utilizar el bot, te comprometes a no utilizarlo de manera que pueda causar daño o interrupción al servicio o a otros usuarios. Además, debes cumplir con los términos de servicio de Discord.</p>
+
+        <h2>4. Privacidad</h2>
+        <p>Tu privacidad es importante para nosotros. El bot puede recopilar cierta información para proporcionar sus funcionalidades. No compartiremos esta información con terceros, excepto cuando sea necesario por ley.</p>
+
+        <h2>5. Modificaciones de los Términos</h2>
+        <p>Nos reservamos el derecho de modificar estos términos en cualquier momento. Se te informará de cualquier cambio importante, y el uso continuado del bot después de dichas modificaciones constituirá la aceptación de los nuevos términos.</p>
+
+        <h2>6. Contacto</h2>
+        <p>Si tienes alguna pregunta o inquietud sobre estos términos, por favor, contáctanos a través de nuestro <a href="mailto:soporte@tuemail.com">correo electrónico</a>.</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 retired64 CmbRDev. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
